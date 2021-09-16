@@ -13,4 +13,4 @@ result_cube_inlitres = result_cube / 1000
 result_tetrahedron_inlitres = result_tetrahedron / 1000
 
 
-print(f"area for cube: {result_cube} cm^2 or {result_cube_inlitres} L\narea for tetrahedron: {result_tetrahedron} cm^2 or {result_tetrahedron_inlitres} L.")
+print(f"area for cube: {result_cube}cm^2 or {result_cube_inlitres}L\narea for tetrahedron: {result_tetrahedron}cm^2 or {result_tetrahedron_inlitres}L.")
